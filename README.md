@@ -2,6 +2,7 @@
 3D Printed 3 Axis Camera Slider, remote controlled via Bluetooth PS3 Controller
 ![thumbnail_NEW_FORMAT_camerasli_der](https://user-images.githubusercontent.com/86553872/123544929-ef2fa080-d755-11eb-9e9e-7710392a2718.jpg)
 
+Build Video:https://youtu.be/7TkybpSQULk
 
 
 This project is based on isaac879's slider. I incorporated the pan & tilt mechanism from him.
@@ -24,11 +25,12 @@ use 30% infill
 gears, and small parts with 0.2mm Layerheight, everything else with 0.3mm layerheigt
 
 Parts needed:
--3xNema17 Steppers
 
--3xTMC2208 Stepper drivers
+-3xNema17 Steppers -> https://amzn.to/3dlSE6m
 
--1xESP32 uC
+-3xTMC2208 Stepper drivers -> https://amzn.to/3jiBDOd
+
+-1xESP32 uC  -> https://amzn.to/2UJMW84
 
 -1xDC-DC Buck Converter for the ESP32
 
@@ -42,7 +44,7 @@ Parts needed:
 
 -2xF623zz ball bearings
 
--1xPS3 Controller (used the cheapest one on amazon)
+-1xPS3 Controller -> https://amzn.to/3hdXDXW
 
 -wiresset of connectors (JST 2.0 & 2.5 & dupont)
 
