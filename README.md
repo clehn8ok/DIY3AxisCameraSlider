@@ -1,6 +1,7 @@
 # DIY3AxisCameraSlider
 3D Printed 3 Axis Camera Slider, remote controlled via Bluetooth PS3 Controller
-![Uploading thumbnail_NEW_FORMAT_cameraslider.jpg…]()
+![thumbnail_NEW_FORMAT_camerasli_der](https://user-images.githubusercontent.com/86553872/123544929-ef2fa080-d755-11eb-9e9e-7710392a2718.jpg)
+
 
 
 This project is based on isaac879's slider. I incorporated the pan & tilt mechanism from him.
